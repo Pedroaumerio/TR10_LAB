@@ -1,5 +1,5 @@
 
-TR10_LAB
+# TR10_LAB
 
 BAIXANDO O CÓDIGO:
 
@@ -25,5 +25,4 @@ Para o programa funcionar, deve digitar somente números inteiros não negativos
 Caso queira encerrar o programa digite -1.
 Quando for encerrado, mostrará os números digitados em ordem crescente.
 
-⚠️OBS:
-Esse processo, funciona somente para Linux, caso não tenha, da para rodar o código em um Editor online.
+⚠️OBS: Esse processo, funciona somente para Linux, caso não tenha, da para rodar o código em um Editor online.
