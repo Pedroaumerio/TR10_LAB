@@ -2,7 +2,7 @@
 TR10_LAB
 
 BAIXANDO O CÓDIGO:
-+Clicando no botão verde com o nome Code, aparecerá a opção Download ZIP.
+Clicando no botão verde com o nome Code, aparecerá a opção Download ZIP.
 Ao baixá-la você irá receber um arquirvo e terá que descompacta-lo. Quando for descompactado, irá gerar uma pasta, contendo os dois arquivos presentes nesse repositório, o README.md e o arquivo .c.
 
 COMPILANDO O CÓDIGO:
