@@ -10,7 +10,7 @@ Ao baixá-la você irá receber um arquirvo e terá que descompacta-lo. Quando f
 COMPILANDO O CÓDIGO:
 
 Para compilar, você irá abrir o terminal na pasta em que o arquivo está.
-Digite o seguite comando: gcc TR3.c -o teste
+Digite o seguite comando: gcc TR3_538733.c -o teste
 Assim, gerando um arquivo executável.
 
 EXECUTANDO O CÓDIGO:
